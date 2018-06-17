@@ -1,0 +1,16 @@
+{
+  "name": "avwx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "avwx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asyncwait": "^1.0.2",
+    "node-fetch": "^2.1.2",
+    "number-to-words": "^1.2.3"
+  }
+}
